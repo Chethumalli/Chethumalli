@@ -19,7 +19,7 @@ Hi there! 👋 I’m **Chethan C Malli**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chethuuuu._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/chethumalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chethumalli/)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=Gmail&logoColor=white)](mailto:chethumalli13@gmail.com)
 
 ---
