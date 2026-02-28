@@ -47,8 +47,6 @@ Hi there! 👋 I’m **Chethan C Malli**
 ## 🤖 AI / Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-%23000000.svg?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-%23009688.svg?style=for-the-badge)
