@@ -3,17 +3,40 @@
 </div>
 
 # 💫 About Me:
+
 Hi there! 👋 I’m **Chethan C Malli**  
-🚀 **AI & ML Enthusiast | Web Developer | Tech Explorer**  
-👨‍💻 **3rd-year CSE (AI & ML) student at AJ Institute of Engineering & Technology (AJIET)**  
 
-💡 I’m passionate about **building modern, scalable, and user-centric web applications** while continuously exploring the power of **Artificial Intelligence & Machine Learning**.  
+🚀 **AI & Machine Learning Enthusiast | Full-Stack Developer | Tech Explorer**  
+🎓 3rd-year CSE (AI & ML) student at **AJ Institute of Engineering & Technology (AJIET)**  
 
-🔧 I specialize in **WordPress, Shopify, and full-stack development**, with a strong focus on clean UI, performance, and real-world usability.  
+---
 
-🤖 Currently learning, experimenting, and implementing **AI/ML models** to solve practical problems and create meaningful digital solutions.  
+💡 I’m deeply passionate about building **modern, scalable, and user-centric digital products** that solve real-world problems.  
+I enjoy blending **Artificial Intelligence, Machine Learning, and Web Development** to create smart, impactful solutions.
 
-✨ *I believe in learning by building, growing through challenges, and improving one project at a time.*
+🧠 I actively explore:
+- AI/ML model development  
+- Generative AI & LLM-based applications  
+- Clean and scalable backend architectures  
+- High-performance, responsive UI/UX systems  
+
+🔧 My core strengths include:
+- **Full-Stack Web Development**
+- **WordPress & Shopify Development**
+- **API Integration & Backend Logic**
+- Building practical AI-powered applications  
+
+🤖 Currently focused on:
+- Experimenting with AI/ML models  
+- Building LLM-based systems & RAG pipelines  
+- Developing real-world AI solutions  
+- Improving system architecture and performance  
+
+✨ I strongly believe in **learning by building**, embracing challenges, and growing through consistent improvement — one project at a time.
+
+---
+
+📌 *“Code with clarity. Build with purpose. Learn without limits.”*
 
 ---
 
