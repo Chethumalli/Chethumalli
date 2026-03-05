@@ -101,10 +101,10 @@ I enjoy blending **Artificial Intelligence, Machine Learning, and Web Developmen
 -----------------------------
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chethumalli&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Chethumalli&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chethumalli&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chethumalli&theme=transparent&hide_border=false&layout=compact)
-
+theme=transparent
 ---
 <h2 align="center">🌊 Contribution Activity</h2>
 
