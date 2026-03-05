@@ -101,16 +101,16 @@ I enjoy blending **Artificial Intelligence, Machine Learning, and Web Developmen
 -----------------------------
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chethumalli&theme=react-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Chethumalli&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chethumalli&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chethumalli&theme=transparent&hide_border=false&layout=compact)
-theme=transparent
+
 ---
 <h2 align="center">🌊 Contribution Activity</h2>
 
 <!-- 3D Wave Style Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethumalli&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=00FFFB&line=00FFFB" width="90%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethumalli&theme=transparent&hide_border=true&area=true&bg_color=000000&color=00FFFB&line=00FFFB" width="90%" alt="Contribution Graph">
 </div>
 ---
 
