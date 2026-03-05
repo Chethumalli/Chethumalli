@@ -106,6 +106,13 @@ I enjoy blending **Artificial Intelligence, Machine Learning, and Web Developmen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chethumalli&theme=transparent&hide_border=false&layout=compact)
 
 ---
+<h2 align="center">🌊 Contribution Activity</h2>
+
+<!-- 3D Wave Style Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethumalli&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=00FFFB&line=00FFFB" width="90%" alt="Contribution Graph">
+</div>
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chethumalli&theme=radical&no-frame=true&margin-w=4)
