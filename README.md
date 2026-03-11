@@ -105,9 +105,6 @@ I enjoy blending **Artificial Intelligence, Machine Learning, and Web Developmen
 ![](https://nirzak-streak-stats.vercel.app/?user=Chethumalli&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chethumalli&theme=transparent&hide_border=false&layout=compact)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sandhesha&show_icons=true&theme=tokyonight" />
-<br/>
 ---
 <h2 align="center">🌊 Contribution Activity</h2>
 
