@@ -7,7 +7,7 @@
 Hi there! 👋 I’m **Chethan C Malli**  
 
 🚀 **AI & Machine Learning Enthusiast | Full-Stack Developer | Tech Explorer**  
-🎓 3rd-year CSE (AI & ML) student at **AJ Institute of Engineering & Technology (AJIET)**  
+🎓 Final-year CSE (AI & ML) student at **AJ Institute of Engineering & Technology (AJIET)**  
 
 ---
 
